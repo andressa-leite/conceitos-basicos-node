@@ -1,0 +1,11 @@
+GET  http://localhost:2000
+
+##############
+
+POST  http://localhost:2000/cursos/programacion
+
+{
+    titulo: 'Apende Node.js'
+}
+
+//aqui para testar, apertar Send Request
